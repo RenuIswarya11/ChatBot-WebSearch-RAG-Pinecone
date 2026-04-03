@@ -1,0 +1,2 @@
+"""Smart Research Assistant package."""
+
